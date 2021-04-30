@@ -5,10 +5,10 @@
 
         cd Downloads/
         
- * Type sudo chmod +x xampp-linux-.........-installer
+ * Type sudo chmod +x xampp-linux-.........-installer.run
  
-        sudo chmod +x xampp-linux-x64-8.0.3-0-installer
-        sudo ./xampp-linux-x64-8.0.3-0-installer
+        sudo chmod +x xampp-linux-x64-8.0.3-0-installer.run
+        sudo ./xampp-linux-x64-8.0.3-0-installer.run
         
  * Launch XAMPP through terminal
   
